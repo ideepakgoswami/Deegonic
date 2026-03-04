@@ -2,7 +2,6 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import SectionHeader from "@/components/SectionHeader";
 import { Music, Code2, Rocket, Heart, Coffee, Globe } from "lucide-react";
-import Link from "next/link";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {

@@ -1,17 +1,10 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import SectionHeader from "@/components/SectionHeader";
 import HeroVisual from "@/components/hero/HeroVisual";
 import {
   ArrowRight,
   CheckCircle2,
-  Zap,
-  Rocket,
-  Shield,
   Star,
-  Calendar,
-  Globe,
-  Code2,
   Mail,
   MessageSquare,
 } from "lucide-react";
@@ -108,7 +101,7 @@ export default function Home() {
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-500 to-slate-400">Clear outcomes.</span>
                 </h2>
                 <p className="text-[18px] text-slate-600 leading-[1.65] font-medium mb-12 max-w-md">
-                  We don't offer everything. We specialize in building strategic
+                  We don&apos;t offer everything. We specialize in building strategic
                   digital platforms that drive conversion, authority, and scale.
                 </p>
                 <Link
@@ -343,7 +336,7 @@ export default function Home() {
                 Need a strategic assessment?
               </h3>
               <p className="text-[17px] text-slate-500 font-medium leading-[1.6] mb-0">
-                Stop guessing what your website needs. We'll audit your current
+                Stop guessing what your website needs. We&apos;ll audit your current
                 setup and provide a clear, actionable roadmap for growth.
               </p>
             </div>
